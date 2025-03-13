@@ -1,4 +1,4 @@
 (executable
  (public_name git_easy)
  (name main)
- (libraries git_easy notty notty.unix))
+ (libraries unix git_easy notty notty.unix))

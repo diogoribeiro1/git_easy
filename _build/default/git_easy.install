@@ -1,8 +1,0 @@
-lib: [
-  "_build/install/default/lib/git_easy/META"
-  "_build/install/default/lib/git_easy/dune-package"
-  "_build/install/default/lib/git_easy/opam"
-]
-bin: [
-  "_build/install/default/bin/git_easy"
-]

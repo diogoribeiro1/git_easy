@@ -1,3 +1,4 @@
 (library
  (name git_easy)
+ (modules git_utils)
  (libraries unix))
